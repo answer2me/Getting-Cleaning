@@ -78,7 +78,7 @@ The data contains output of the human activity recognition using smartphones exp
 # Transformation description
 Step 1: Training and the test sets are merged to create one data set.
 Step 2: Only the measurements on the mean and standard deviation are extracted for each measurement.
-Step 3: Descriptive activity names are used to name the activities in the data set
+Step 3: Descriptive activity names are used to name the activities in the data set.
 Step 4: The data set is appropriately labeled with descriptive variable names.
 
 # Detailed information can be found in the following link:
