@@ -12,6 +12,6 @@ Final project for coursera course: Getting and Cleaning Data
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 # Output of the project contains:
-1. a tidy data set as described below. 
-2. a link to a Github repository with your script for performing the analysis.
-3. a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md.
+1. a tidy data set as described above. 
+2. a link to a Github repository with script for performing the analysis.
+3. a code book that describes the variables, the data, and any transformations or work that was performed to clean up the data called CodeBook.md.
